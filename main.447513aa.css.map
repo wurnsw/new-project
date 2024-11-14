@@ -1,0 +1,1 @@
+{"version":3,"sources":["sass/components/title.scss","sass/main.scss"],"names":[],"mappings":"AAAA,GACE,UCCF,KACE","file":"main.447513aa.css","sourceRoot":"../src","sourcesContent":["h1 {\n  color: red\n}","@import './components/title';\n\nbody {\n  background-color: green;\n}"]}
